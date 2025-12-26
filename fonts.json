@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sample-1",
+    "name": "Hind Siliguri",
+    "filename": "HindSiliguri-Regular.ttf",
+    "author": "ITF",
+    "category": "SANS"
+  },
+  {
+    "id": "sample-2",
+    "name": "Kalpurush",
+    "filename": "Kalpurush.ttf",
+    "author": "S. M. Murshid",
+    "category": "SERIF"
+  }
+]
